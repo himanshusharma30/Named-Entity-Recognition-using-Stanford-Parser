@@ -1,0 +1,18 @@
+body
+{
+
+	background-image: url("greydient.png");
+    
+
+
+}
+
+a:visited
+{
+
+
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+
+}
