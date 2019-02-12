@@ -1,0 +1,45 @@
+div.form-group
+{
+
+align-self: center;
+max-width: 1200px;
+height: 300px;
+padding-left: 40px;
+
+
+
+
+
+}
+
+
+
+div.progress
+{
+
+
+	max-width: 500px;
+	margin-left: 40px;
+
+
+}
+
+body
+{
+
+	background-image: url("greydient.png");
+    
+
+
+}
+
+button.btn
+{
+
+margin-left: 40px;
+
+
+
+
+}
+
